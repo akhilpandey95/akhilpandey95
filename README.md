@@ -11,15 +11,14 @@ Previously, I was a Ph.D student advised by [Dr. Hamed Alhoori](https://alhoori.
 
 My most recent projects include training reasoning models and doing tests on scaling hypothesis for test time compute for scientific text generation. Specifically, finetuning and performance tuning DPO, ORPO, and recently GRPO on different open weight models. More can be found [here](https://github.com/akhilpandey95/s1). Additionally, I'm interested in conducting research investigating the topic of credit assignment problem for qualitative texts in science (peer-reviews). More specifically, if there exists a scientific task, *Creating reward signals for LLM reasoning beyond math/programming domains* is **hard** is a well agreed upon notion. More about this can be found in project [LMRSD](https://github.com/akhilpandey95/LMRSD).
 
-- 🔭 I’m currently working on fine-tuning large language models, implementing LLM agents, LLM's + Graphs.
-- 🌱 I’m currently exploring **Ways bring GraphRAG to the larger scholarly ecosystem, and Science of Science data**
+- 🔭 I’m currently working on fine-tuning large language models, implementing scientific LLM agents, exploring the utility of LLM's + Graphs.
+- 🌱 I’m currently exploring **Ways to improve agentic PeerReview for the larger scholarly ecosystem, and scientific publications**.
 - 👯 I’m looking to collaborate on **Building microservices for LLMs; Agentic LLM tooling as a service layer**
 - 🤔 I’m always looking for help with **Building Knowledge Graphs within Citation Networks**
-- 💬 Ask me about Large Language models, Graph Learning, Uncertainty Quantification, Neural Architecture Search.
+- 💬 Ask me about Large Language models, Representational Learning, Information theory, Graphs, Uncertainty Quantification, Neural Architecture Search.
 - 📫 How to reach me: [@akhilpandey95](https://x.com/akhilpandey95)
 - 😄 Pronouns: (he/him)
 - ⚡ Fun fact: **Haskell** has *type inference*, meaning it can automatically determine the type of a data by looking at how it is created.
-
 
 ## Active projects:
 
