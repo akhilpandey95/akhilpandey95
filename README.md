@@ -22,11 +22,13 @@ My most recent projects include training reasoning models and doing tests on sca
 
 ## Active projects:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilpandey95&theme=github_light&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_title=true&hide_rank=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=100" />
+<a href="https://akhilpandey95.github.io/projects/lmrsd/" target="_blank">
+  <p>Pre-review to Peer review | Pitfalls of Automating Reviews using Large Language Models</p>
+  <img align="center" src="https://akhilpandey95.github.io/img/LMRSD.png" width=470 height=400/>
 </a>
-
-<a href="https://github.com/saforem2/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilpandey95&layout=compact&langs_count=10&theme=github_light&hide_title=true&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF" />
+<hr>
+<a href="https://akhilpandey95.github.io/projects/resciagent/" target="_blank">
+  <p>ReSci-Agent | Agentic PeerReview</p>
+  <img align="center" src="https://akhilpandey95.github.io/img/resci_banner.png" width=600 height=250/>
 </a>
-</br>
+</hr>
