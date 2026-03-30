@@ -34,13 +34,45 @@ to investigate the [*Reproducibility crisis in AI*](https://www.science.org/doi/
 
 ## Active projects:
 
-<a href="https://akhilpandey95.github.io/projects/lmrsd/" target="_blank">
-  <p>Pre-review to Peer review | Pitfalls of Automating Reviews using Large Language Models</p>
-  <img align="center" src="https://akhilpandey95.github.io/img/LMRSD.png" width=470 height=400/>
-</a>
-<hr>
-<a href="https://akhilpandey95.github.io/projects/resciagent/" target="_blank">
-  <p>ReSci-Agent | Agentic PeerReview</p>
-  <img align="center" src="https://akhilpandey95.github.io/img/resci_banner.png" width=600 height=250/>
-</a>
-</hr>
+<table style="border: none; border-spacing: 16px; border-collapse: separate; width: 100%;">
+<tr style="border: none;">
+  <td style="border: none; width: 50%; vertical-align: top; padding: 0;">
+    <a href="https://akhilpandey95.github.io/projects/lmrsd/" target="_blank" style="text-decoration: none; display: block; border-radius: 14px; overflow: hidden; box-shadow: 0 2px 16px rgba(0,0,0,0.08); color: inherit; background: #fff;">
+      <div style="height: 6px; background: linear-gradient(90deg, #667eea, #764ba2);"></div>
+      <div style="padding: 20px;">
+        <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 6px;">
+          <span style="background: #eef2ff; color: #4f46e5; font-size: 0.7em; font-weight: 600; padding: 2px 8px; border-radius: 99px; font-family: system-ui, sans-serif; letter-spacing: 0.03em;">RESEARCH</span>
+        </div>
+        <div style="font-weight: 700; font-size: 1.15em; color: #1a1a2e; font-family: system-ui, -apple-system, sans-serif; line-height: 1.35; margin-bottom: 4px;">
+          Pre-review to Peer Review
+        </div>
+        <div style="font-size: 0.85em; color: #6b7280; font-family: system-ui, sans-serif; line-height: 1.4; margin-bottom: 16px;">
+          Pitfalls of Automating Reviews using Large Language Models
+        </div>
+        <div style="text-align: center; background: #f8f9fb; border-radius: 10px; padding: 12px;">
+          <img src="https://akhilpandey95.github.io/img/LMRSD.png" style="max-width: 100%; max-height: 220px; object-fit: contain; border-radius: 6px;" alt="LMRSD Project"/>
+        </div>
+      </div>
+    </a>
+  </td>
+  <td style="border: none; width: 50%; vertical-align: top; padding: 0;">
+    <a href="https://akhilpandey95.github.io/projects/resciagent/" target="_blank" style="text-decoration: none; display: block; border-radius: 14px; overflow: hidden; box-shadow: 0 2px 16px rgba(0,0,0,0.08); color: inherit; background: #fff;">
+      <div style="height: 6px; background: linear-gradient(90deg, #f093fb, #f5576c);"></div>
+      <div style="padding: 20px;">
+        <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 6px;">
+          <span style="background: #fef2f2; color: #dc2626; font-size: 0.7em; font-weight: 600; padding: 2px 8px; border-radius: 99px; font-family: system-ui, sans-serif; letter-spacing: 0.03em;">AGENT</span>
+        </div>
+        <div style="font-weight: 700; font-size: 1.15em; color: #1a1a2e; font-family: system-ui, -apple-system, sans-serif; line-height: 1.35; margin-bottom: 4px;">
+          ReSci-Agent
+        </div>
+        <div style="font-size: 0.85em; color: #6b7280; font-family: system-ui, sans-serif; line-height: 1.4; margin-bottom: 16px;">
+          Agentic Peer Review for Scholarly Works
+        </div>
+        <div style="text-align: center; background: #f8f9fb; border-radius: 10px; padding: 12px;">
+          <img src="https://akhilpandey95.github.io/img/resci_banner.png" style="max-width: 100%; max-height: 220px; object-fit: contain; border-radius: 6px;" alt="ReSci-Agent Banner"/>
+        </div>
+      </div>
+    </a>
+  </td>
+</tr>
+</table>
